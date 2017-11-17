@@ -5,7 +5,7 @@ Official Website for TEDx LNMIIT.
 ## Built With
 
 * [ParticlesJS](https://github.com/VincentGarreau/particles.js/)
-* [BootStrap](https://github.com/twbs/bootstrap)
+* [Bootstrap](https://github.com/twbs/bootstrap)
 
 ## License
 
